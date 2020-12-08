@@ -1,0 +1,40 @@
+body{
+	margin:0 auto;
+padding:0;
+background-image: linear-gradient(to right, red, yellow);
+width: 100%;
+
+}
+
+
+h1{
+	text-align: center;
+	font-size: 70px;
+	margin-top:90px;
+	margin-left:50px;
+	width:100%;
+	letter-spacing: 0.4em;
+
+}
+div{
+	 display: flex;
+	 justify-content: center;
+	 flex-wrap: wrap;
+
+
+}
+
+h2{
+	clear: all;
+	text-align: center;
+	font-size: 50px;
+	margin:60px;
+	margin-right: 20px;
+	letter-spacing: 0.02em;
+}
+.color1{
+	margin-right: 20px;
+}
+h3{
+	margin:20px;
+}
